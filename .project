@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>FP_PBO_KEL7</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>sepatu_anugerah.html</name>
+			<type>1</type>
+			<location>C:/Users/user/workspace/FP PBO (02-11-13-38)/src/sepatu_anugerah/sepatu_anugerah.html</location>
+		</link>
+	</linkedResources>
+</projectDescription>
