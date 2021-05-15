@@ -12,7 +12,7 @@
 ## Kelompok Pemrograman Berbasis Objek UPN V JATIM
 | NO | NAMA ANGGOTA TIM | NPM |
 | --- | --- | --- |
-| 1 | Merdin Risalul Abrori | 18081010081 |
+| 1 | Heri Khariono | 18081010002 |
 | 2 | Melania Syafrida Paruntu | 18081010011 |
 | 3 | Devan Cakra Mudra Wijaya | 18081010013 |
 | 4 | Moch Hawin Hamami | 18081010038 |
