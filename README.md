@@ -1,10 +1,10 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?style=flat)](https://github.com/ellerbrock/open-source-badges/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
-![GitHub last commit](https://img.shields.io/github/last-commit/devancakra/APLIKASI-TOKO-SEPATU-ONLINE-SEDERHANA)
+![GitHub last commit](https://img.shields.io/github/last-commit/devancakra/Aplikasi-Toko-Sepatu-Online-Sederhana)
 ![JAVA](https://img.shields.io/badge/-JAVA-yellow.svg?&logo=JAVA&logoColor=white)
 ![HTML](https://img.shields.io/badge/-HTML-blue.svg?style=flat&logo=html&logoColor=white)
 
-# APLIKASI-TOKO-SEPATU-ONLINE-SEDERHANA
+# Aplikasi-Toko-Sepatu-Online-Sederhana
 <b>Aplikasi ini diciptakan sebagai syarat pemenuhan tugas Final Project mata kuliah Pemrograman Berbasis Objek</p>
 
 <br>
